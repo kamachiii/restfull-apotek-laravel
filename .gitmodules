@@ -1,3 +1,6 @@
 [submodule "BEApotik"]
 	path = BEApotik
 	url = https://github.com/kamachiii/BEApotik
+[submodule "FEApotik"]
+	path = FEApotik
+	url = https://github.com/kamachiii/FEApotik
